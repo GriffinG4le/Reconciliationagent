@@ -1,0 +1,3 @@
+Tested 40 codes using OCR normalization.
+Found exactly in normalized PDF: 2
+NOT FOUND (even with OCR norm): ['UCGRL9GE81', 'UC4RL8BO6N', 'UBH0V74V9M', 'UC20V8D8H7', 'UCR0VAWOZR']

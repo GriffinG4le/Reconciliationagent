@@ -1,0 +1,4 @@
+Tested 40 codes.
+Found exactly in pdf_text: 2
+First 5 NOT FOUND codes: ['UCGRL9GE81', 'UC4RL8BO6N', 'UBH0V74V9M', 'UC20V8D8H7', 'UCR0VAWOZR']
+Out of 38 not found, found 0 in completely stripped PDF text.

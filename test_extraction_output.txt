@@ -1,0 +1,49 @@
+--- EXTRACT TABLES ---
+Table 0:
+['TRANSACTION TYPE', 'PAID IN', 'PAID OUT']
+['Total', '17,050.00', '17,050.00']
+...
+Table 1:
+['Receipt No.', 'Completion Time', 'Details', 'Transaction Status', 'Paid In', 'Withdrawn', 'Balance']
+['UDFSJ96OIJ', '2026-04-15\n08:07:02', 'Utility Account to\nOrganization Settlement\nAccount', 'Completed', '0.00', '11,040.00', '0.00']
+['UCUGWB0THQ', '2026-03-30\n11:33:17', 'Pay Bill from 254*****3053 -\ntom ochieng Acc. 3033', 'Completed', '10.00', '0.00', '11,040.00']
+['UBCM46F5BH', '2026-02-12\n09:48:22', 'Pay Bill from 254*****8883 -\nEUNICE MAINA Acc. Sheila\nwathira', 'Completed', '1,030.00', '0.00', '11,030.00']
+['UB4M45O1E2', '2026-02-04\n13:45:16', 'Pay Bill from 254*****8883 -\nEUNICE MAINA Acc. Sheila W\nmurage', 'Completed', '10,000.00', '0.00', '10,000.00']
+['UAQSJ690Z7', '2026-01-26\n23:23:18', 'Utility Account to\nOrganization Settlement\nAccount', 'Completed', '0.00', '1,000.00', '0.00']
+['UA8AC36Y2P', '2026-01-08\n14:05:56', 'Pay Bill from 254*****2498 -\nBRANDON CHISIKA Acc.\n39971710', 'Completed', '1,000.00', '0.00', '1,000.00']
+['UA8SJ5LIVT', '2026-01-08\n14:03:02', 'Utility Account to\nOrganization Settlement\nAccount', 'Completed', '0.00', '5,010.00', '0.00']
+['UA7LE36E6Z', '2026-01-07\n11:23:46', 'Pay Bill from 254*****7610 -\nKIPRONO KILLION Acc.\n32699549', 'Completed', '1,000.00', '0.00', '5,010.00']
+['UA7LE36D31', '2026-01-07\n11:21:52', 'Pay Bill from 254*****7610 -\nKIPRONO KILLION Acc.\n21052250', 'Completed', '2,000.00', '0.00', '4,010.00']
+...
+
+--- EXTRACT WORDS ---
+{'text': 'Page', 'x0': 518.51, 'x1': 536.675, 'top': 38.45600000000002, 'doctop': 38.45600000000002, 'bottom': 45.45600000000002, 'upright': True, 'height': 7.0, 'width': 18.164999999999964, 'direction': 'ltr'}
+{'text': '1', 'x0': 538.607, 'x1': 542.485, 'top': 38.45600000000002, 'doctop': 38.45600000000002, 'bottom': 45.45600000000002, 'upright': True, 'height': 7.0, 'width': 3.8780000000000427, 'direction': 'ltr'}
+{'text': 'of', 'x0': 544.417, 'x1': 551.186, 'top': 38.45600000000002, 'doctop': 38.45600000000002, 'bottom': 45.45600000000002, 'upright': True, 'height': 7.0, 'width': 6.7690000000000055, 'direction': 'ltr'}
+{'text': '1', 'x0': 553.1179999999999, 'x1': 556.996, 'top': 38.45600000000002, 'doctop': 38.45600000000002, 'bottom': 45.45600000000002, 'upright': True, 'height': 7.0, 'width': 3.8780000000000427, 'direction': 'ltr'}
+{'text': 'M-PESA', 'x0': 233.58, 'x1': 284.17600000000004, 'top': 63.912000000000035, 'doctop': 63.912000000000035, 'bottom': 77.91200000000003, 'upright': True, 'height': 14.0, 'width': 50.59600000000003, 'direction': 'ltr'}
+{'text': 'STATEMENT', 'x0': 288.04, 'x1': 361.41400000000004, 'top': 63.912000000000035, 'doctop': 63.912000000000035, 'bottom': 77.91200000000003, 'upright': True, 'height': 14.0, 'width': 73.37400000000002, 'direction': 'ltr'}
+{'text': 'Organization', 'x0': 38.0, 'x1': 81.68700000000001, 'top': 96.45600000000002, 'doctop': 96.45600000000002, 'bottom': 103.45600000000002, 'upright': True, 'height': 7.0, 'width': 43.68700000000001, 'direction': 'ltr'}
+{'text': 'Name:', 'x0': 83.619, 'x1': 106.607, 'top': 96.45600000000002, 'doctop': 96.45600000000002, 'bottom': 103.45600000000002, 'upright': True, 'height': 7.0, 'width': 22.988, 'direction': 'ltr'}
+{'text': 'STYLE', 'x0': 157.54, 'x1': 175.117, 'top': 96.45600000000002, 'doctop': 96.45600000000002, 'bottom': 103.45600000000002, 'upright': True, 'height': 7.0, 'width': 17.576999999999998, 'direction': 'ltr'}
+{'text': 'UP', 'x0': 177.04899999999998, 'x1': 185.76399999999998, 'top': 96.45600000000002, 'doctop': 96.45600000000002, 'bottom': 103.45600000000002, 'upright': True, 'height': 7.0, 'width': 8.715000000000003, 'direction': 'ltr'}
+{'text': 'DRIVING', 'x0': 187.696, 'x1': 216.501, 'top': 96.45600000000002, 'doctop': 96.45600000000002, 'bottom': 103.45600000000002, 'upright': True, 'height': 7.0, 'width': 28.805000000000007, 'direction': 'ltr'}
+{'text': 'SCHOOL', 'x0': 218.433, 'x1': 247.77700000000002, 'top': 96.45600000000002, 'doctop': 96.45600000000002, 'bottom': 103.45600000000002, 'upright': True, 'height': 7.0, 'width': 29.344000000000023, 'direction': 'ltr'}
+{'text': '2021', 'x0': 249.709, 'x1': 265.221, 'top': 96.45600000000002, 'doctop': 96.45600000000002, 'bottom': 103.45600000000002, 'upright': True, 'height': 7.0, 'width': 15.512, 'direction': 'ltr'}
+{'text': 'Shortcode:', 'x0': 38.0, 'x1': 75.163, 'top': 113.45600000000002, 'doctop': 113.45600000000002, 'bottom': 120.45600000000002, 'upright': True, 'height': 7.0, 'width': 37.163, 'direction': 'ltr'}
+{'text': '4006927', 'x0': 157.54, 'x1': 184.68599999999998, 'top': 113.45600000000002, 'doctop': 113.45600000000002, 'bottom': 120.45600000000002, 'upright': True, 'height': 7.0, 'width': 27.145999999999987, 'direction': 'ltr'}
+{'text': 'Account', 'x0': 38.0, 'x1': 67.673, 'top': 130.45600000000002, 'doctop': 130.45600000000002, 'bottom': 137.45600000000002, 'upright': True, 'height': 7.0, 'width': 29.673000000000002, 'direction': 'ltr'}
+{'text': 'Name:', 'x0': 69.605, 'x1': 92.593, 'top': 130.45600000000002, 'doctop': 130.45600000000002, 'bottom': 137.45600000000002, 'upright': True, 'height': 7.0, 'width': 22.988, 'direction': 'ltr'}
+{'text': 'Utility', 'x0': 157.54, 'x1': 174.802, 'top': 130.45600000000002, 'doctop': 130.45600000000002, 'bottom': 137.45600000000002, 'upright': True, 'height': 7.0, 'width': 17.262, 'direction': 'ltr'}
+{'text': 'Account', 'x0': 176.73399999999998, 'x1': 206.407, 'top': 130.45600000000002, 'doctop': 130.45600000000002, 'bottom': 137.45600000000002, 'upright': True, 'height': 7.0, 'width': 29.67300000000003, 'direction': 'ltr'}
+{'text': 'Statement', 'x0': 38.0, 'x1': 73.27300000000001, 'top': 147.45600000000002, 'doctop': 147.45600000000002, 'bottom': 154.45600000000002, 'upright': True, 'height': 7.0, 'width': 35.27300000000001, 'direction': 'ltr'}
+{'text': 'Period:', 'x0': 75.20500000000001, 'x1': 98.69000000000001, 'top': 147.45600000000002, 'doctop': 147.45600000000002, 'bottom': 154.45600000000002, 'upright': True, 'height': 7.0, 'width': 23.485, 'direction': 'ltr'}
+{'text': '1st', 'x0': 157.54, 'x1': 166.5, 'top': 147.45600000000002, 'doctop': 147.45600000000002, 'bottom': 154.45600000000002, 'upright': True, 'height': 7.0, 'width': 8.960000000000008, 'direction': 'ltr'}
+{'text': 'January', 'x0': 168.432, 'x1': 195.725, 'top': 147.45600000000002, 'doctop': 147.45600000000002, 'bottom': 154.45600000000002, 'upright': True, 'height': 7.0, 'width': 27.293000000000006, 'direction': 'ltr'}
+{'text': '2026', 'x0': 197.65699999999998, 'x1': 213.16899999999998, 'top': 147.45600000000002, 'doctop': 147.45600000000002, 'bottom': 154.45600000000002, 'upright': True, 'height': 7.0, 'width': 15.512, 'direction': 'ltr'}
+{'text': '-', 'x0': 215.101, 'x1': 217.425, 'top': 147.45600000000002, 'doctop': 147.45600000000002, 'bottom': 154.45600000000002, 'upright': True, 'height': 7.0, 'width': 2.3240000000000123, 'direction': 'ltr'}
+{'text': '2nd', 'x0': 219.357, 'x1': 232.29299999999998, 'top': 147.45600000000002, 'doctop': 147.45600000000002, 'bottom': 154.45600000000002, 'upright': True, 'height': 7.0, 'width': 12.935999999999979, 'direction': 'ltr'}
+{'text': 'May', 'x0': 234.22500000000002, 'x1': 249.18400000000003, 'top': 147.45600000000002, 'doctop': 147.45600000000002, 'bottom': 154.45600000000002, 'upright': True, 'height': 7.0, 'width': 14.959000000000003, 'direction': 'ltr'}
+{'text': '2026', 'x0': 251.116, 'x1': 266.628, 'top': 147.45600000000002, 'doctop': 147.45600000000002, 'bottom': 154.45600000000002, 'upright': True, 'height': 7.0, 'width': 15.511999999999972, 'direction': 'ltr'}
+{'text': 'Request', 'x0': 38.0, 'x1': 65.433, 'top': 164.45600000000002, 'doctop': 164.45600000000002, 'bottom': 171.45600000000002, 'upright': True, 'height': 7.0, 'width': 27.433000000000007, 'direction': 'ltr'}
+{'text': 'Date:', 'x0': 67.365, 'x1': 86.19500000000001, 'top': 164.45600000000002, 'doctop': 164.45600000000002, 'bottom': 171.45600000000002, 'upright': True, 'height': 7.0, 'width': 18.830000000000013, 'direction': 'ltr'}

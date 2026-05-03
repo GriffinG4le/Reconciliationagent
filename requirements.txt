@@ -1,0 +1,6 @@
+pandas
+openpyxl
+pdfplumber
+PyPDF2
+gspread
+google-auth
